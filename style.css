@@ -1,0 +1,175 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #d298d2;
+}
+
+nav {
+  background-color: #3b7dc4;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+h4 {
+  color: white;
+}
+footer {
+  color: white;
+}
+.mission {
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 30px;
+  width: 50px;
+  font-family: 'Geologica', sans-serif;
+}
+
+.aprende {
+  margin-left: 80px;
+  margin-right: 60 px;
+  height: 30px;
+  width: 50px;
+  font-family: 'Geologica', sans-serif;
+}
+
+.yo {
+  margin-left: 150px;
+  margin-right: 60px;
+  height: 30px;
+  width: 50px;
+  font-family: 'Geologica', sans-serif;
+}
+
+.como {
+  margin-left: 80px;
+  margin-right: 60px;
+  height: 30px;
+  width: 50px;
+  font-family: 'Geologica', sans-serif;
+}
+
+.contact {
+  margin-left: 80px;
+  height: 30px;
+  width: 50px;
+  font-family: 'Geologica', sans-serif;
+}
+
+.titulo {
+  margin-bottom: 100px;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.rompecabezas {
+  height: 100%;
+  width: 100%;
+}
+
+.objetivo {
+  text-align: left;
+  font-size: 20px;
+}
+
+h2 {
+  margin: 100px;
+  color: blue;
+}
+
+.buttonone {
+  border: solid;
+  border-color: pink;
+  border-radius: 5%;
+  border-width: 30px;
+  background-color: pink;
+  font-family: 'Geologica', sans-serif;
+}
+
+.manitas {
+  height: 50%;
+  width: 30%;
+  float: right;
+}
+
+.video {
+  margin-left: 60px;
+  height: 30px;
+  width: 50px;
+}
+
+.objetivo {
+  font-family: 'Oswald', sans-serif;
+}
+
+.flecha {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+.empatia {
+  margin-top: 20%;
+  text-align: right;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.cargando {
+  height: 50%;
+  width: 65%;
+  float: left;
+}
+
+.masempatia {
+  margin-top: 200px;
+}
+
+.flechados {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+.sobremi {
+  margin-top: 20%;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.mifoto {
+  width: 400px;
+}
+
+.videoc {
+  margin-top: 100px;
+}
+
+.footer {
+  background-color: #3b7dc4;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.comocooperar {
+  margin-top: 15%;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+.logodos {
+  font-family: 'Press Start 2P', cursive;
+}
